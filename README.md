@@ -1,5 +1,3 @@
 <p align="center">
-   <a href="https://github.com/oakoudad/badge42">
-      <img src="https://badge.mediaplus.ma/black/aaugusto?UM6P=off" alt="Allan Rabelo's 42 stats" />
-   </a>
+  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Descrição da imagem">
 </p>
