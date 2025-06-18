@@ -22,6 +22,9 @@
   <a href="https://github.com/allancrabelo/Get_Next_Line" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/2209596f-8fd3-4ab3-8d39-0c53a02a30c0" alt="Imagem 3" />
   </a>
+  <a href="https://github.com/allancrabelo/Born2beRoot?tab=readme-ov-file" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/8e091166-580e-4796-8b69-298da576fe3d" alt="Imagem 3" />
+  </a>
 </p>
 
 </div>
